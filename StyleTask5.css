@@ -1,0 +1,11 @@
+.flex-row{
+    width:1010;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+div img{
+    background-color: #f7f7f7;
+    padding: 2px;
+    
+}
